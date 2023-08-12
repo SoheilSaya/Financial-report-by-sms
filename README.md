@@ -27,3 +27,5 @@ pip install reportlab
 ```
 Also copy persian_reshaper.py to python/lib folder. this file is needed to show Persian fonts properly.<br />
 Mentioned directory can often be found at C:\Program Files\Python311\Lib, or C:\Python\Lib, if not, search "python.exe" and you may find it with ease.<br />
+Run the code and it should create a pdf like this:
+![Screenshot](Screenshot.png)
